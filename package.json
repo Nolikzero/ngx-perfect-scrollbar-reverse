@@ -31,7 +31,6 @@
     "url": "https://github.com/zefoy/ngx-perfect-scrollbar/issues"
   },
   "dependencies": {
-    "perfect-scrollbar": "github:nolikzero/perfect-scrollbar-reverse#master",
     "resize-observer-polyfill": "^1.4.0"
   },
   "description": "Angular wrapper library for Perfect Scrollbar",
